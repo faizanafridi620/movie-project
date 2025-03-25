@@ -14,9 +14,9 @@ function MovieCard({movie}) {
         />
       </div>
       <div>
-        <p>{movie.Year}</p>
       </div>
       <div>
+        <p>{movie.Year}</p>
         <span>{movie.Type}</span>
         <h3>{movie.Title}</h3>
       </div>
